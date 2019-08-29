@@ -1,0 +1,1 @@
+I developed a simple web api project to develop myself in ASP.Net Core. I used MongoDB as the database.
